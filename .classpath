@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/syeda/Downloads/javax.ws.rs.jar/javax.ws.rs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syeda/Downloads/jackson-annotations-2.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syeda/Downloads/jackson-core-2.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syeda/Downloads/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syeda/Downloads/jackson-databind-2.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syeda/Downloads/commons-codec-1.7.jar/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syeda/Downloads/zap-api-2.4-v1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
