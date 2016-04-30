@@ -11,10 +11,10 @@
     <property name="source" value="1.8"/>
     <path id="Jenkins _Jira.classpath">
         <pathelement location="bin"/>
-        <pathelement location="jar/jackson-annotations-2.5.5.jar"/>
-        <pathelement location="jar/jackson-core-2.5.5.jar"/>
-        <pathelement location="jar/jackson-core-asl-1.9.13.jar"/>
-        <pathelement location="jar/jackson-databind-2.5.5.jar"/>
+        <pathelement location="extenal_jar/jackson-annotations-2.5.5.jar"/>
+        <pathelement location="extenal_jar/jackson-core-2.5.5.jar"/>
+        <pathelement location="extenal_jar/jackson-core-asl-1.9.13.jar"/>
+        <pathelement location="extenal_jar/jackson-databind-2.5.5.jar"/>
     </path>
     <target name="init">
         <mkdir dir="bin"/>
