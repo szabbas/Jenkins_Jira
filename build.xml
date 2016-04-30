@@ -11,13 +11,10 @@
     <property name="source" value="1.8"/>
     <path id="Jenkins _Jira.classpath">
         <pathelement location="bin"/>
-        <pathelement location="C:/Users/syeda/Downloads/javax.ws.rs.jar/javax.ws.rs.jar"/>
-        <pathelement location="C:/Users/syeda/Downloads/jackson-annotations-2.5.5.jar"/>
-        <pathelement location="C:/Users/syeda/Downloads/jackson-core-2.5.5.jar"/>
-        <pathelement location="C:/Users/syeda/Downloads/jackson-core-asl-1.9.13.jar"/>
-        <pathelement location="C:/Users/syeda/Downloads/jackson-databind-2.5.5.jar"/>
-        <pathelement location="C:/Users/syeda/Downloads/commons-codec-1.7.jar/commons-codec-1.7.jar"/>
-        <pathelement location="C:/Users/syeda/Downloads/zap-api-2.4-v1.jar"/>
+        <pathelement location="jar/jackson-annotations-2.5.5.jar"/>
+        <pathelement location="jar/jackson-core-2.5.5.jar"/>
+        <pathelement location="jar/jackson-core-asl-1.9.13.jar"/>
+        <pathelement location="jar/jackson-databind-2.5.5.jar"/>
     </path>
     <target name="init">
         <mkdir dir="bin"/>
